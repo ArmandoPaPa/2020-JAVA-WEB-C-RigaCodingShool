@@ -1,0 +1,13 @@
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_Objects_Konstruktors\bin\Debug\netcoreapp3.1\Cs2_Day_07_Objects_Konstruktors.exe
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_Objects_Konstruktors\bin\Debug\netcoreapp3.1\Cs2_Day_07_Objects_Konstruktors.deps.json
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_Objects_Konstruktors\bin\Debug\netcoreapp3.1\Cs2_Day_07_Objects_Konstruktors.runtimeconfig.json
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_Objects_Konstruktors\bin\Debug\netcoreapp3.1\Cs2_Day_07_Objects_Konstruktors.runtimeconfig.dev.json
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_Objects_Konstruktors\bin\Debug\netcoreapp3.1\Cs2_Day_07_Objects_Konstruktors.dll
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_Objects_Konstruktors\bin\Debug\netcoreapp3.1\Cs2_Day_07_Objects_Konstruktors.pdb
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_Objects_Konstruktors\obj\Debug\netcoreapp3.1\Cs2_Day_07_Objects_Konstruktors.csprojAssemblyReference.cache
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_Objects_Konstruktors\obj\Debug\netcoreapp3.1\Cs2_Day_07_Objects_Konstruktors.AssemblyInfoInputs.cache
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_Objects_Konstruktors\obj\Debug\netcoreapp3.1\Cs2_Day_07_Objects_Konstruktors.AssemblyInfo.cs
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_Objects_Konstruktors\obj\Debug\netcoreapp3.1\Cs2_Day_07_Objects_Konstruktors.csproj.CoreCompileInputs.cache
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_Objects_Konstruktors\obj\Debug\netcoreapp3.1\Cs2_Day_07_Objects_Konstruktors.dll
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_Objects_Konstruktors\obj\Debug\netcoreapp3.1\Cs2_Day_07_Objects_Konstruktors.pdb
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_Objects_Konstruktors\obj\Debug\netcoreapp3.1\Cs2_Day_07_Objects_Konstruktors.genruntimeconfig.cache

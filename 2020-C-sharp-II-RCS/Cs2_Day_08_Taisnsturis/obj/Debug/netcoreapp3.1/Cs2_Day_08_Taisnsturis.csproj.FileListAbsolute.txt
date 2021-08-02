@@ -1,0 +1,13 @@
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_08_Taisnsturis\bin\Debug\netcoreapp3.1\Cs2_Day_08_Taisnsturis.exe
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_08_Taisnsturis\bin\Debug\netcoreapp3.1\Cs2_Day_08_Taisnsturis.deps.json
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_08_Taisnsturis\bin\Debug\netcoreapp3.1\Cs2_Day_08_Taisnsturis.runtimeconfig.json
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_08_Taisnsturis\bin\Debug\netcoreapp3.1\Cs2_Day_08_Taisnsturis.runtimeconfig.dev.json
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_08_Taisnsturis\bin\Debug\netcoreapp3.1\Cs2_Day_08_Taisnsturis.dll
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_08_Taisnsturis\bin\Debug\netcoreapp3.1\Cs2_Day_08_Taisnsturis.pdb
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_08_Taisnsturis\obj\Debug\netcoreapp3.1\Cs2_Day_08_Taisnsturis.csprojAssemblyReference.cache
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_08_Taisnsturis\obj\Debug\netcoreapp3.1\Cs2_Day_08_Taisnsturis.AssemblyInfoInputs.cache
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_08_Taisnsturis\obj\Debug\netcoreapp3.1\Cs2_Day_08_Taisnsturis.AssemblyInfo.cs
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_08_Taisnsturis\obj\Debug\netcoreapp3.1\Cs2_Day_08_Taisnsturis.csproj.CoreCompileInputs.cache
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_08_Taisnsturis\obj\Debug\netcoreapp3.1\Cs2_Day_08_Taisnsturis.dll
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_08_Taisnsturis\obj\Debug\netcoreapp3.1\Cs2_Day_08_Taisnsturis.pdb
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_08_Taisnsturis\obj\Debug\netcoreapp3.1\Cs2_Day_08_Taisnsturis.genruntimeconfig.cache

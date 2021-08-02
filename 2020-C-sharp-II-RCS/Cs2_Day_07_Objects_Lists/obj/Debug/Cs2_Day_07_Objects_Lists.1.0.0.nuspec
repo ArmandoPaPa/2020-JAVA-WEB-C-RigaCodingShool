@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Cs2_Day_07_Objects_Lists</id>
+    <version>1.0.0</version>
+    <authors>Cs2_Day_07_Objects_Lists</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_Objects_Lists\bin\Debug\netcoreapp3.1\Cs2_Day_07_Objects_Lists.runtimeconfig.json" target="lib\netcoreapp3.1\Cs2_Day_07_Objects_Lists.runtimeconfig.json" />
+    <file src="C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_Objects_Lists\bin\Debug\netcoreapp3.1\Cs2_Day_07_Objects_Lists.dll" target="lib\netcoreapp3.1\Cs2_Day_07_Objects_Lists.dll" />
+  </files>
+</package>

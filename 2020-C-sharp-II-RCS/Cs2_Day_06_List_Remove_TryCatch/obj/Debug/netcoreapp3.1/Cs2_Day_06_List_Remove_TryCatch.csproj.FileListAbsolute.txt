@@ -1,0 +1,13 @@
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_06_List_Remove_TryCatch\bin\Debug\netcoreapp3.1\Cs2_Day_06_List_Remove_TryCatch.exe
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_06_List_Remove_TryCatch\bin\Debug\netcoreapp3.1\Cs2_Day_06_List_Remove_TryCatch.deps.json
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_06_List_Remove_TryCatch\bin\Debug\netcoreapp3.1\Cs2_Day_06_List_Remove_TryCatch.runtimeconfig.json
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_06_List_Remove_TryCatch\bin\Debug\netcoreapp3.1\Cs2_Day_06_List_Remove_TryCatch.runtimeconfig.dev.json
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_06_List_Remove_TryCatch\bin\Debug\netcoreapp3.1\Cs2_Day_06_List_Remove_TryCatch.dll
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_06_List_Remove_TryCatch\bin\Debug\netcoreapp3.1\Cs2_Day_06_List_Remove_TryCatch.pdb
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_06_List_Remove_TryCatch\obj\Debug\netcoreapp3.1\Cs2_Day_06_List_Remove_TryCatch.csprojAssemblyReference.cache
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_06_List_Remove_TryCatch\obj\Debug\netcoreapp3.1\Cs2_Day_06_List_Remove_TryCatch.AssemblyInfoInputs.cache
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_06_List_Remove_TryCatch\obj\Debug\netcoreapp3.1\Cs2_Day_06_List_Remove_TryCatch.AssemblyInfo.cs
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_06_List_Remove_TryCatch\obj\Debug\netcoreapp3.1\Cs2_Day_06_List_Remove_TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_06_List_Remove_TryCatch\obj\Debug\netcoreapp3.1\Cs2_Day_06_List_Remove_TryCatch.dll
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_06_List_Remove_TryCatch\obj\Debug\netcoreapp3.1\Cs2_Day_06_List_Remove_TryCatch.pdb
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_06_List_Remove_TryCatch\obj\Debug\netcoreapp3.1\Cs2_Day_06_List_Remove_TryCatch.genruntimeconfig.cache

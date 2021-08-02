@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cs2_Day_08_extra_Lists_dublicates", "Cs2_Day_08_extra_Lists_dublicates.csproj", "{6BB9C24D-EDCF-4E02-B4C8-79F5A856088F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BB9C24D-EDCF-4E02-B4C8-79F5A856088F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB9C24D-EDCF-4E02-B4C8-79F5A856088F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB9C24D-EDCF-4E02-B4C8-79F5A856088F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB9C24D-EDCF-4E02-B4C8-79F5A856088F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E070CBF-0634-4BB7-88F5-DF3A2F077B61}
+	EndGlobalSection
+EndGlobal

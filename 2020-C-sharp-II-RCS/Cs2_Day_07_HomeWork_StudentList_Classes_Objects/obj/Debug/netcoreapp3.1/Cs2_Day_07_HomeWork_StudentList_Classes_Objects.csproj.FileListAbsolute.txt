@@ -1,0 +1,13 @@
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_HomeWork_StudentList_Classes_Objects\bin\Debug\netcoreapp3.1\Cs2_Day_07_HomeWork_StudentList_Classes_Objects.exe
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_HomeWork_StudentList_Classes_Objects\bin\Debug\netcoreapp3.1\Cs2_Day_07_HomeWork_StudentList_Classes_Objects.deps.json
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_HomeWork_StudentList_Classes_Objects\bin\Debug\netcoreapp3.1\Cs2_Day_07_HomeWork_StudentList_Classes_Objects.runtimeconfig.json
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_HomeWork_StudentList_Classes_Objects\bin\Debug\netcoreapp3.1\Cs2_Day_07_HomeWork_StudentList_Classes_Objects.runtimeconfig.dev.json
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_HomeWork_StudentList_Classes_Objects\bin\Debug\netcoreapp3.1\Cs2_Day_07_HomeWork_StudentList_Classes_Objects.dll
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_HomeWork_StudentList_Classes_Objects\bin\Debug\netcoreapp3.1\Cs2_Day_07_HomeWork_StudentList_Classes_Objects.pdb
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_HomeWork_StudentList_Classes_Objects\obj\Debug\netcoreapp3.1\Cs2_Day_07_HomeWork_StudentList_Classes_Objects.csprojAssemblyReference.cache
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_HomeWork_StudentList_Classes_Objects\obj\Debug\netcoreapp3.1\Cs2_Day_07_HomeWork_StudentList_Classes_Objects.AssemblyInfoInputs.cache
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_HomeWork_StudentList_Classes_Objects\obj\Debug\netcoreapp3.1\Cs2_Day_07_HomeWork_StudentList_Classes_Objects.AssemblyInfo.cs
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_HomeWork_StudentList_Classes_Objects\obj\Debug\netcoreapp3.1\Cs2_Day_07_HomeWork_StudentList_Classes_Objects.csproj.CoreCompileInputs.cache
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_HomeWork_StudentList_Classes_Objects\obj\Debug\netcoreapp3.1\Cs2_Day_07_HomeWork_StudentList_Classes_Objects.dll
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_HomeWork_StudentList_Classes_Objects\obj\Debug\netcoreapp3.1\Cs2_Day_07_HomeWork_StudentList_Classes_Objects.pdb
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_07_HomeWork_StudentList_Classes_Objects\obj\Debug\netcoreapp3.1\Cs2_Day_07_HomeWork_StudentList_Classes_Objects.genruntimeconfig.cache

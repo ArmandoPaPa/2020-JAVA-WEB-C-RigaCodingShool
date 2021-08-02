@@ -1,0 +1,13 @@
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_09_Files_03\obj\Debug\netcoreapp3.1\Cs2_Day_09_Files_03.csprojAssemblyReference.cache
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_09_Files_03\obj\Debug\netcoreapp3.1\Cs2_Day_09_Files_03.AssemblyInfoInputs.cache
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_09_Files_03\obj\Debug\netcoreapp3.1\Cs2_Day_09_Files_03.AssemblyInfo.cs
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_09_Files_03\obj\Debug\netcoreapp3.1\Cs2_Day_09_Files_03.csproj.CoreCompileInputs.cache
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_09_Files_03\bin\Debug\netcoreapp3.1\Cs2_Day_09_Files_03.exe
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_09_Files_03\bin\Debug\netcoreapp3.1\Cs2_Day_09_Files_03.deps.json
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_09_Files_03\bin\Debug\netcoreapp3.1\Cs2_Day_09_Files_03.runtimeconfig.json
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_09_Files_03\bin\Debug\netcoreapp3.1\Cs2_Day_09_Files_03.runtimeconfig.dev.json
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_09_Files_03\bin\Debug\netcoreapp3.1\Cs2_Day_09_Files_03.dll
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_09_Files_03\bin\Debug\netcoreapp3.1\Cs2_Day_09_Files_03.pdb
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_09_Files_03\obj\Debug\netcoreapp3.1\Cs2_Day_09_Files_03.dll
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_09_Files_03\obj\Debug\netcoreapp3.1\Cs2_Day_09_Files_03.pdb
+C:\Users\Armando PaPa\Desktop\MaM plus\RigaCoding\C#\Cs_2nd_TIME\Cs2_Day_09_Files_03\obj\Debug\netcoreapp3.1\Cs2_Day_09_Files_03.genruntimeconfig.cache
