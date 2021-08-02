@@ -1,0 +1,13 @@
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_Vardi_Burts_Skaits\obj\Debug\netcoreapp3.1\4_Vardi_Burts_Skaits.csprojAssemblyReference.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_Vardi_Burts_Skaits\obj\Debug\netcoreapp3.1\4_Vardi_Burts_Skaits.csproj.CoreCompileInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_Vardi_Burts_Skaits\obj\Debug\netcoreapp3.1\4_Vardi_Burts_Skaits.AssemblyInfoInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_Vardi_Burts_Skaits\obj\Debug\netcoreapp3.1\4_Vardi_Burts_Skaits.AssemblyInfo.cs
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_Vardi_Burts_Skaits\bin\Debug\netcoreapp3.1\4_Vardi_Burts_Skaits.exe
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_Vardi_Burts_Skaits\bin\Debug\netcoreapp3.1\4_Vardi_Burts_Skaits.deps.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_Vardi_Burts_Skaits\bin\Debug\netcoreapp3.1\4_Vardi_Burts_Skaits.runtimeconfig.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_Vardi_Burts_Skaits\bin\Debug\netcoreapp3.1\4_Vardi_Burts_Skaits.runtimeconfig.dev.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_Vardi_Burts_Skaits\bin\Debug\netcoreapp3.1\4_Vardi_Burts_Skaits.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_Vardi_Burts_Skaits\bin\Debug\netcoreapp3.1\4_Vardi_Burts_Skaits.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_Vardi_Burts_Skaits\obj\Debug\netcoreapp3.1\4_Vardi_Burts_Skaits.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_Vardi_Burts_Skaits\obj\Debug\netcoreapp3.1\4_Vardi_Burts_Skaits.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_Vardi_Burts_Skaits\obj\Debug\netcoreapp3.1\4_Vardi_Burts_Skaits.genruntimeconfig.cache

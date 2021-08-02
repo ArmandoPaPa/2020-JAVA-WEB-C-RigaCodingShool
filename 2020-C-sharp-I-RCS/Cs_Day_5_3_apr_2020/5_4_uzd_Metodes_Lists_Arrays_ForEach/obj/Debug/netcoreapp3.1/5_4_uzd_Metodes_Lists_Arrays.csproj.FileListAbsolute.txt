@@ -1,0 +1,12 @@
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_4_uzd_Arrays\bin\Debug\netcoreapp3.1\5_4_uzd_Metodes_Lists_Arrays.exe
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_4_uzd_Arrays\bin\Debug\netcoreapp3.1\5_4_uzd_Metodes_Lists_Arrays.deps.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_4_uzd_Arrays\bin\Debug\netcoreapp3.1\5_4_uzd_Metodes_Lists_Arrays.runtimeconfig.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_4_uzd_Arrays\bin\Debug\netcoreapp3.1\5_4_uzd_Metodes_Lists_Arrays.runtimeconfig.dev.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_4_uzd_Arrays\bin\Debug\netcoreapp3.1\5_4_uzd_Metodes_Lists_Arrays.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_4_uzd_Arrays\bin\Debug\netcoreapp3.1\5_4_uzd_Metodes_Lists_Arrays.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_4_uzd_Arrays\obj\Debug\netcoreapp3.1\5_4_uzd_Metodes_Lists_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_4_uzd_Arrays\obj\Debug\netcoreapp3.1\5_4_uzd_Metodes_Lists_Arrays.AssemblyInfoInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_4_uzd_Arrays\obj\Debug\netcoreapp3.1\5_4_uzd_Metodes_Lists_Arrays.AssemblyInfo.cs
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_4_uzd_Arrays\obj\Debug\netcoreapp3.1\5_4_uzd_Metodes_Lists_Arrays.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_4_uzd_Arrays\obj\Debug\netcoreapp3.1\5_4_uzd_Metodes_Lists_Arrays.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_4_uzd_Arrays\obj\Debug\netcoreapp3.1\5_4_uzd_Metodes_Lists_Arrays.genruntimeconfig.cache

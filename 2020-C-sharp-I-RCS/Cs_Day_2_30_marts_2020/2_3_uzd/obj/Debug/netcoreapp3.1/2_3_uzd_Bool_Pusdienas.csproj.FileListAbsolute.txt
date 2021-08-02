@@ -1,0 +1,12 @@
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_3_uzd\bin\Debug\netcoreapp3.1\2_3_uzd_Bool_Pusdienas.exe
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_3_uzd\bin\Debug\netcoreapp3.1\2_3_uzd_Bool_Pusdienas.deps.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_3_uzd\bin\Debug\netcoreapp3.1\2_3_uzd_Bool_Pusdienas.runtimeconfig.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_3_uzd\bin\Debug\netcoreapp3.1\2_3_uzd_Bool_Pusdienas.runtimeconfig.dev.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_3_uzd\bin\Debug\netcoreapp3.1\2_3_uzd_Bool_Pusdienas.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_3_uzd\bin\Debug\netcoreapp3.1\2_3_uzd_Bool_Pusdienas.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_3_uzd\obj\Debug\netcoreapp3.1\2_3_uzd_Bool_Pusdienas.csproj.CoreCompileInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_3_uzd\obj\Debug\netcoreapp3.1\2_3_uzd_Bool_Pusdienas.AssemblyInfoInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_3_uzd\obj\Debug\netcoreapp3.1\2_3_uzd_Bool_Pusdienas.AssemblyInfo.cs
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_3_uzd\obj\Debug\netcoreapp3.1\2_3_uzd_Bool_Pusdienas.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_3_uzd\obj\Debug\netcoreapp3.1\2_3_uzd_Bool_Pusdienas.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_3_uzd\obj\Debug\netcoreapp3.1\2_3_uzd_Bool_Pusdienas.genruntimeconfig.cache

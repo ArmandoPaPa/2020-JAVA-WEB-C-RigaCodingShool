@@ -1,0 +1,12 @@
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_CietaisRieksts_Masivi_SamainitVietam\bin\Debug\netcoreapp3.1\3_CietaisRieksts_Masivi_SamainitVietam.exe
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_CietaisRieksts_Masivi_SamainitVietam\bin\Debug\netcoreapp3.1\3_CietaisRieksts_Masivi_SamainitVietam.deps.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_CietaisRieksts_Masivi_SamainitVietam\bin\Debug\netcoreapp3.1\3_CietaisRieksts_Masivi_SamainitVietam.runtimeconfig.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_CietaisRieksts_Masivi_SamainitVietam\bin\Debug\netcoreapp3.1\3_CietaisRieksts_Masivi_SamainitVietam.runtimeconfig.dev.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_CietaisRieksts_Masivi_SamainitVietam\bin\Debug\netcoreapp3.1\3_CietaisRieksts_Masivi_SamainitVietam.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_CietaisRieksts_Masivi_SamainitVietam\bin\Debug\netcoreapp3.1\3_CietaisRieksts_Masivi_SamainitVietam.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_CietaisRieksts_Masivi_SamainitVietam\obj\Debug\netcoreapp3.1\3_CietaisRieksts_Masivi_SamainitVietam.csproj.CoreCompileInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_CietaisRieksts_Masivi_SamainitVietam\obj\Debug\netcoreapp3.1\3_CietaisRieksts_Masivi_SamainitVietam.AssemblyInfoInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_CietaisRieksts_Masivi_SamainitVietam\obj\Debug\netcoreapp3.1\3_CietaisRieksts_Masivi_SamainitVietam.AssemblyInfo.cs
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_CietaisRieksts_Masivi_SamainitVietam\obj\Debug\netcoreapp3.1\3_CietaisRieksts_Masivi_SamainitVietam.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_CietaisRieksts_Masivi_SamainitVietam\obj\Debug\netcoreapp3.1\3_CietaisRieksts_Masivi_SamainitVietam.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_CietaisRieksts_Masivi_SamainitVietam\obj\Debug\netcoreapp3.1\3_CietaisRieksts_Masivi_SamainitVietam.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_6_6_apr_2020\6_2_uzd_Metozu_OverLoad\bin\Debug\netcoreapp3.1\6_2_uzd_Metozu_OverLoad.exe
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_6_6_apr_2020\6_2_uzd_Metozu_OverLoad\bin\Debug\netcoreapp3.1\6_2_uzd_Metozu_OverLoad.deps.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_6_6_apr_2020\6_2_uzd_Metozu_OverLoad\bin\Debug\netcoreapp3.1\6_2_uzd_Metozu_OverLoad.runtimeconfig.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_6_6_apr_2020\6_2_uzd_Metozu_OverLoad\bin\Debug\netcoreapp3.1\6_2_uzd_Metozu_OverLoad.runtimeconfig.dev.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_6_6_apr_2020\6_2_uzd_Metozu_OverLoad\bin\Debug\netcoreapp3.1\6_2_uzd_Metozu_OverLoad.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_6_6_apr_2020\6_2_uzd_Metozu_OverLoad\bin\Debug\netcoreapp3.1\6_2_uzd_Metozu_OverLoad.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_6_6_apr_2020\6_2_uzd_Metozu_OverLoad\obj\Debug\netcoreapp3.1\6_2_uzd_Metozu_OverLoad.csprojAssemblyReference.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_6_6_apr_2020\6_2_uzd_Metozu_OverLoad\obj\Debug\netcoreapp3.1\6_2_uzd_Metozu_OverLoad.csproj.CoreCompileInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_6_6_apr_2020\6_2_uzd_Metozu_OverLoad\obj\Debug\netcoreapp3.1\6_2_uzd_Metozu_OverLoad.AssemblyInfoInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_6_6_apr_2020\6_2_uzd_Metozu_OverLoad\obj\Debug\netcoreapp3.1\6_2_uzd_Metozu_OverLoad.AssemblyInfo.cs
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_6_6_apr_2020\6_2_uzd_Metozu_OverLoad\obj\Debug\netcoreapp3.1\6_2_uzd_Metozu_OverLoad.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_6_6_apr_2020\6_2_uzd_Metozu_OverLoad\obj\Debug\netcoreapp3.1\6_2_uzd_Metozu_OverLoad.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_6_6_apr_2020\6_2_uzd_Metozu_OverLoad\obj\Debug\netcoreapp3.1\6_2_uzd_Metozu_OverLoad.genruntimeconfig.cache

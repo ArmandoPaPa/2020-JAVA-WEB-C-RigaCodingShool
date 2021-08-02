@@ -1,0 +1,13 @@
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_CietaisRieksts\bin\Debug\netcoreapp3.1\5_CietaisRieksts.exe
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_CietaisRieksts\bin\Debug\netcoreapp3.1\5_CietaisRieksts.deps.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_CietaisRieksts\bin\Debug\netcoreapp3.1\5_CietaisRieksts.runtimeconfig.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_CietaisRieksts\bin\Debug\netcoreapp3.1\5_CietaisRieksts.runtimeconfig.dev.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_CietaisRieksts\bin\Debug\netcoreapp3.1\5_CietaisRieksts.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_CietaisRieksts\bin\Debug\netcoreapp3.1\5_CietaisRieksts.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_CietaisRieksts\obj\Debug\netcoreapp3.1\5_CietaisRieksts.csproj.CoreCompileInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_CietaisRieksts\obj\Debug\netcoreapp3.1\5_CietaisRieksts.AssemblyInfoInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_CietaisRieksts\obj\Debug\netcoreapp3.1\5_CietaisRieksts.AssemblyInfo.cs
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_CietaisRieksts\obj\Debug\netcoreapp3.1\5_CietaisRieksts.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_CietaisRieksts\obj\Debug\netcoreapp3.1\5_CietaisRieksts.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_CietaisRieksts\obj\Debug\netcoreapp3.1\5_CietaisRieksts.genruntimeconfig.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_CietaisRieksts\obj\Debug\netcoreapp3.1\5_CietaisRieksts.csprojAssemblyReference.cache
