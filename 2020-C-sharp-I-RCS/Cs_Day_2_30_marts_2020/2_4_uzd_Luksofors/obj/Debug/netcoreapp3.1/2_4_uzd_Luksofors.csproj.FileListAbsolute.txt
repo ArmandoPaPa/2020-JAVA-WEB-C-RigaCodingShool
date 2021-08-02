@@ -1,0 +1,13 @@
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_4_uzd_Luksofors\bin\Debug\netcoreapp3.1\2_4_uzd_Luksofors.exe
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_4_uzd_Luksofors\bin\Debug\netcoreapp3.1\2_4_uzd_Luksofors.deps.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_4_uzd_Luksofors\bin\Debug\netcoreapp3.1\2_4_uzd_Luksofors.runtimeconfig.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_4_uzd_Luksofors\bin\Debug\netcoreapp3.1\2_4_uzd_Luksofors.runtimeconfig.dev.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_4_uzd_Luksofors\bin\Debug\netcoreapp3.1\2_4_uzd_Luksofors.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_4_uzd_Luksofors\bin\Debug\netcoreapp3.1\2_4_uzd_Luksofors.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_4_uzd_Luksofors\obj\Debug\netcoreapp3.1\2_4_uzd_Luksofors.csprojAssemblyReference.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_4_uzd_Luksofors\obj\Debug\netcoreapp3.1\2_4_uzd_Luksofors.csproj.CoreCompileInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_4_uzd_Luksofors\obj\Debug\netcoreapp3.1\2_4_uzd_Luksofors.AssemblyInfoInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_4_uzd_Luksofors\obj\Debug\netcoreapp3.1\2_4_uzd_Luksofors.AssemblyInfo.cs
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_4_uzd_Luksofors\obj\Debug\netcoreapp3.1\2_4_uzd_Luksofors.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_4_uzd_Luksofors\obj\Debug\netcoreapp3.1\2_4_uzd_Luksofors.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_4_uzd_Luksofors\obj\Debug\netcoreapp3.1\2_4_uzd_Luksofors.genruntimeconfig.cache

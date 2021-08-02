@@ -1,0 +1,13 @@
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_2_uzd\bin\Debug\netcoreapp3.1\2_2_uzd_Bool_While_20x.exe
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_2_uzd\bin\Debug\netcoreapp3.1\2_2_uzd_Bool_While_20x.deps.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_2_uzd\bin\Debug\netcoreapp3.1\2_2_uzd_Bool_While_20x.runtimeconfig.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_2_uzd\bin\Debug\netcoreapp3.1\2_2_uzd_Bool_While_20x.runtimeconfig.dev.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_2_uzd\bin\Debug\netcoreapp3.1\2_2_uzd_Bool_While_20x.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_2_uzd\bin\Debug\netcoreapp3.1\2_2_uzd_Bool_While_20x.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_2_uzd\obj\Debug\netcoreapp3.1\2_2_uzd_Bool_While_20x.csprojAssemblyReference.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_2_uzd\obj\Debug\netcoreapp3.1\2_2_uzd_Bool_While_20x.csproj.CoreCompileInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_2_uzd\obj\Debug\netcoreapp3.1\2_2_uzd_Bool_While_20x.AssemblyInfoInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_2_uzd\obj\Debug\netcoreapp3.1\2_2_uzd_Bool_While_20x.AssemblyInfo.cs
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_2_uzd\obj\Debug\netcoreapp3.1\2_2_uzd_Bool_While_20x.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_2_uzd\obj\Debug\netcoreapp3.1\2_2_uzd_Bool_While_20x.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_2_30_marts_2020\2_2_uzd\obj\Debug\netcoreapp3.1\2_2_uzd_Bool_While_20x.genruntimeconfig.cache

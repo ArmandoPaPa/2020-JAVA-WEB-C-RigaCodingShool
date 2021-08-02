@@ -1,0 +1,13 @@
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_Masivi_Summa\bin\Debug\netcoreapp3.1\3_Masivi_Summa.exe
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_Masivi_Summa\bin\Debug\netcoreapp3.1\3_Masivi_Summa.deps.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_Masivi_Summa\bin\Debug\netcoreapp3.1\3_Masivi_Summa.runtimeconfig.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_Masivi_Summa\bin\Debug\netcoreapp3.1\3_Masivi_Summa.runtimeconfig.dev.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_Masivi_Summa\bin\Debug\netcoreapp3.1\3_Masivi_Summa.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_Masivi_Summa\bin\Debug\netcoreapp3.1\3_Masivi_Summa.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_Masivi_Summa\obj\Debug\netcoreapp3.1\3_Masivi_Summa.csprojAssemblyReference.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_Masivi_Summa\obj\Debug\netcoreapp3.1\3_Masivi_Summa.csproj.CoreCompileInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_Masivi_Summa\obj\Debug\netcoreapp3.1\3_Masivi_Summa.AssemblyInfoInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_Masivi_Summa\obj\Debug\netcoreapp3.1\3_Masivi_Summa.AssemblyInfo.cs
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_Masivi_Summa\obj\Debug\netcoreapp3.1\3_Masivi_Summa.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_Masivi_Summa\obj\Debug\netcoreapp3.1\3_Masivi_Summa.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_3_31_marts_2020\3_Masivi_Summa\obj\Debug\netcoreapp3.1\3_Masivi_Summa.genruntimeconfig.cache

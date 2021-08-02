@@ -1,0 +1,12 @@
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_1_27_marts_2020\1_If_else_1\bin\Debug\netcoreapp3.1\1_If_else_1.exe
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_1_27_marts_2020\1_If_else_1\bin\Debug\netcoreapp3.1\1_If_else_1.deps.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_1_27_marts_2020\1_If_else_1\bin\Debug\netcoreapp3.1\1_If_else_1.runtimeconfig.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_1_27_marts_2020\1_If_else_1\bin\Debug\netcoreapp3.1\1_If_else_1.runtimeconfig.dev.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_1_27_marts_2020\1_If_else_1\bin\Debug\netcoreapp3.1\1_If_else_1.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_1_27_marts_2020\1_If_else_1\bin\Debug\netcoreapp3.1\1_If_else_1.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_1_27_marts_2020\1_If_else_1\obj\Debug\netcoreapp3.1\1_If_else_1.csproj.CoreCompileInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_1_27_marts_2020\1_If_else_1\obj\Debug\netcoreapp3.1\1_If_else_1.AssemblyInfoInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_1_27_marts_2020\1_If_else_1\obj\Debug\netcoreapp3.1\1_If_else_1.AssemblyInfo.cs
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_1_27_marts_2020\1_If_else_1\obj\Debug\netcoreapp3.1\1_If_else_1.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_1_27_marts_2020\1_If_else_1\obj\Debug\netcoreapp3.1\1_If_else_1.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_1_27_marts_2020\1_If_else_1\obj\Debug\netcoreapp3.1\1_If_else_1.genruntimeconfig.cache

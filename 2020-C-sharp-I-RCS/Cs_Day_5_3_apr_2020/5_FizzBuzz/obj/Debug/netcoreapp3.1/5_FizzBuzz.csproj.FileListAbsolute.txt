@@ -1,0 +1,13 @@
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_FizzBuzz\bin\Debug\netcoreapp3.1\5_FizzBuzz.exe
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_FizzBuzz\bin\Debug\netcoreapp3.1\5_FizzBuzz.deps.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_FizzBuzz\bin\Debug\netcoreapp3.1\5_FizzBuzz.runtimeconfig.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_FizzBuzz\bin\Debug\netcoreapp3.1\5_FizzBuzz.runtimeconfig.dev.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_FizzBuzz\bin\Debug\netcoreapp3.1\5_FizzBuzz.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_FizzBuzz\bin\Debug\netcoreapp3.1\5_FizzBuzz.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_FizzBuzz\obj\Debug\netcoreapp3.1\5_FizzBuzz.csprojAssemblyReference.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_FizzBuzz\obj\Debug\netcoreapp3.1\5_FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_FizzBuzz\obj\Debug\netcoreapp3.1\5_FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_FizzBuzz\obj\Debug\netcoreapp3.1\5_FizzBuzz.AssemblyInfo.cs
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_FizzBuzz\obj\Debug\netcoreapp3.1\5_FizzBuzz.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_FizzBuzz\obj\Debug\netcoreapp3.1\5_FizzBuzz.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_5_3_apr_2020\5_FizzBuzz\obj\Debug\netcoreapp3.1\5_FizzBuzz.genruntimeconfig.cache

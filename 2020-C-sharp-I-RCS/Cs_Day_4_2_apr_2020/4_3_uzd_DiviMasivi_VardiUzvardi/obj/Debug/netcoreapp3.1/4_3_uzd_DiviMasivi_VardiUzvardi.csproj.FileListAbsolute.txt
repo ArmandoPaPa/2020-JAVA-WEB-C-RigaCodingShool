@@ -1,0 +1,13 @@
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_3_uzd_DiviMasivi_VardiUzvardi\bin\Debug\netcoreapp3.1\4_3_uzd_DiviMasivi_VardiUzvardi.exe
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_3_uzd_DiviMasivi_VardiUzvardi\bin\Debug\netcoreapp3.1\4_3_uzd_DiviMasivi_VardiUzvardi.deps.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_3_uzd_DiviMasivi_VardiUzvardi\bin\Debug\netcoreapp3.1\4_3_uzd_DiviMasivi_VardiUzvardi.runtimeconfig.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_3_uzd_DiviMasivi_VardiUzvardi\bin\Debug\netcoreapp3.1\4_3_uzd_DiviMasivi_VardiUzvardi.runtimeconfig.dev.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_3_uzd_DiviMasivi_VardiUzvardi\bin\Debug\netcoreapp3.1\4_3_uzd_DiviMasivi_VardiUzvardi.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_3_uzd_DiviMasivi_VardiUzvardi\bin\Debug\netcoreapp3.1\4_3_uzd_DiviMasivi_VardiUzvardi.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_3_uzd_DiviMasivi_VardiUzvardi\obj\Debug\netcoreapp3.1\4_3_uzd_DiviMasivi_VardiUzvardi.csprojAssemblyReference.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_3_uzd_DiviMasivi_VardiUzvardi\obj\Debug\netcoreapp3.1\4_3_uzd_DiviMasivi_VardiUzvardi.csproj.CoreCompileInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_3_uzd_DiviMasivi_VardiUzvardi\obj\Debug\netcoreapp3.1\4_3_uzd_DiviMasivi_VardiUzvardi.AssemblyInfoInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_3_uzd_DiviMasivi_VardiUzvardi\obj\Debug\netcoreapp3.1\4_3_uzd_DiviMasivi_VardiUzvardi.AssemblyInfo.cs
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_3_uzd_DiviMasivi_VardiUzvardi\obj\Debug\netcoreapp3.1\4_3_uzd_DiviMasivi_VardiUzvardi.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_3_uzd_DiviMasivi_VardiUzvardi\obj\Debug\netcoreapp3.1\4_3_uzd_DiviMasivi_VardiUzvardi.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_3_uzd_DiviMasivi_VardiUzvardi\obj\Debug\netcoreapp3.1\4_3_uzd_DiviMasivi_VardiUzvardi.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_1_uzd_DoWhile\bin\Debug\netcoreapp3.1\4_1_uzd_DoWhile.exe
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_1_uzd_DoWhile\bin\Debug\netcoreapp3.1\4_1_uzd_DoWhile.deps.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_1_uzd_DoWhile\bin\Debug\netcoreapp3.1\4_1_uzd_DoWhile.runtimeconfig.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_1_uzd_DoWhile\bin\Debug\netcoreapp3.1\4_1_uzd_DoWhile.runtimeconfig.dev.json
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_1_uzd_DoWhile\bin\Debug\netcoreapp3.1\4_1_uzd_DoWhile.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_1_uzd_DoWhile\bin\Debug\netcoreapp3.1\4_1_uzd_DoWhile.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_1_uzd_DoWhile\obj\Debug\netcoreapp3.1\4_1_uzd_DoWhile.csprojAssemblyReference.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_1_uzd_DoWhile\obj\Debug\netcoreapp3.1\4_1_uzd_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_1_uzd_DoWhile\obj\Debug\netcoreapp3.1\4_1_uzd_DoWhile.AssemblyInfoInputs.cache
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_1_uzd_DoWhile\obj\Debug\netcoreapp3.1\4_1_uzd_DoWhile.AssemblyInfo.cs
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_1_uzd_DoWhile\obj\Debug\netcoreapp3.1\4_1_uzd_DoWhile.dll
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_1_uzd_DoWhile\obj\Debug\netcoreapp3.1\4_1_uzd_DoWhile.pdb
+C:\Users\blumb\Desktop\MaM plus\RigaCoding\C#\Cs_Day_4_2_apr_2020\4_1_uzd_DoWhile\obj\Debug\netcoreapp3.1\4_1_uzd_DoWhile.genruntimeconfig.cache
